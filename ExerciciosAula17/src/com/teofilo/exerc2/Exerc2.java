@@ -7,6 +7,7 @@ public class Exerc2 {
     Scanner scan = new Scanner(System.in);
 
     boolean infoValidas = false;
+
     do{
         System.out.println("Digite o nome do usuário");
         String nomeUser = scan.next();
