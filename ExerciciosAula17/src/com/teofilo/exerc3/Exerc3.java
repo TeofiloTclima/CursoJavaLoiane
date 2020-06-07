@@ -60,7 +60,7 @@ public class Exerc3 {
 
         infovalida = false;
         do{
-            System.out.println("Entre com a idade:");
+            System.out.println("Entre com Estado Civil:");
             estadoCivil = scan.next();
 
             if (estadoCivil.equalsIgnoreCase("s") ||
