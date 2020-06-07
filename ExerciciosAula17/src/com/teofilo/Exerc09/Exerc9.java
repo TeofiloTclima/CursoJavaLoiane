@@ -1,4 +1,4 @@
-package com.teofilo.Exerc9;
+package com.teofilo.Exerc09;
 
 public class Exerc9 {
     public static void main(String[] args){

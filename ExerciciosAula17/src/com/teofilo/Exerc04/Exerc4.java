@@ -1,5 +1,4 @@
-package com.teofilo.Exerc4;
-import java.util.Scanner;
+package com.teofilo.Exerc04;
 
 public class Exerc4 {
     public static void main(String[] args){

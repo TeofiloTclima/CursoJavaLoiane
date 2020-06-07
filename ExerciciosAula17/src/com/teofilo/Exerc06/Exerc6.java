@@ -1,4 +1,4 @@
-package com.teofilo.Exerc6;
+package com.teofilo.Exerc06;
 
 public class Exerc6 {
     public static void main(String[] args){

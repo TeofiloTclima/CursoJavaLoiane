@@ -1,4 +1,4 @@
-package com.teofilo.Exerc7;
+package com.teofilo.Exerc07;
 
 import java.util.Scanner;
 
