@@ -22,7 +22,7 @@ public class Exerc5 {
                 }
             }while (!valido);
 
-        boolean valido = false;
+        valido = false;
 
         do {
             System.out.println("Entre com a população B: ");
@@ -35,7 +35,7 @@ public class Exerc5 {
             }
         }while (!valido);
 
-        boolean valido = false;
+        valido = false;
 
         do {
             System.out.println("Entre com a taxa de crescimento da população A: ");
@@ -47,6 +47,8 @@ public class Exerc5 {
                 System.out.println("Taxa de crescimento A precisa ser maior que 0");
             }
         }while (!valido);
+
+        valido = false;
 
         do {
             System.out.println("Entre com a taxa de crescimento da população B: ");
