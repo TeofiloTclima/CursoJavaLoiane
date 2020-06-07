@@ -5,7 +5,7 @@ public class Exerc4 {
     public static void main(String[] args){
     //Scanner scan = new Scanner(System.in);
 
-        int popA = 8000;
+        int popA = 80000;
         int popB = 200000;
         int cont = 0;
 
