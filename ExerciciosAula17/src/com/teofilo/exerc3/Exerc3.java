@@ -79,9 +79,6 @@ public class Exerc3 {
         System.out.println("Salário " + salario);
         System.out.println("Sexo: " + sexo);
         System.out.println("Estado Civil: " + estadoCivil);
-
-
-
     }
 
 }
