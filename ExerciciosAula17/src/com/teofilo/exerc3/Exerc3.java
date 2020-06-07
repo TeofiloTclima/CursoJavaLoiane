@@ -35,7 +35,7 @@ public class Exerc3 {
 
          infovalida = false;
         do{
-            System.out.println("Entre com a idade:");
+            System.out.println("Entre com o Salário:");
             salario = scan.nextDouble();
 
             if (salario > 0 ){
