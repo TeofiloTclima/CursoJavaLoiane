@@ -47,7 +47,7 @@ public class Exerc3 {
 
         infovalida = false;
         do{
-            System.out.println("Entre com a idade:");
+            System.out.println("Entre com o sexo:");
             sexo = scan.next();
 
             if (sexo.equalsIgnoreCase("f") ||
@@ -72,6 +72,16 @@ public class Exerc3 {
                 System.out.println("Estado Civil precisa ser 's' solteiro, 'c' casado, 'v' viuvo e 'd' para divorciado:");
             }
         }while (!infoValida);
+
+        System.out.println("As seguintes informações foram coletadas:");
+        System.out.println("Nome: " + nome);
+        System.out.println("Idade: " + idade);
+        System.out.println("Salário " + salario);
+        System.out.println("Sexo: " + sexo);
+        System.out.println("Estado Civil: " + estadoCivil);
+
+
+
     }
 
 }
