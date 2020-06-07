@@ -1,4 +1,4 @@
-package com.teofilo.exerc1;
+package com.teofilo.Exerc1;
 
 import java.util.Scanner;
 public class Exerc1 {
