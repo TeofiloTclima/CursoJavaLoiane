@@ -5,7 +5,7 @@ public class Exerc19 {
       public static void main(String[] args){
           Scanner scan = new Scanner(System.in);
 
-          System.out.println("Entre com o número de notas");
+          System.out.println("Entre com o número de notas:");
           int notas = scan.nextInt();
 
           double soma =0;
