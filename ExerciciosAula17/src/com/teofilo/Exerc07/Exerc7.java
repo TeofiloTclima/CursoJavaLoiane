@@ -1,6 +1,7 @@
 package com.teofilo.Exerc07;
-
 import java.util.Scanner;
+
+    // Faça um programa que leia 5 números e informe o maior número.
 
 public class Exerc7 {
     public static void main(String[] args){

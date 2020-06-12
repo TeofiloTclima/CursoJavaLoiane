@@ -1,6 +1,8 @@
 package com.teofilo.Exerc10;
-
 import java.util.Scanner;
+
+    //  Faça um programa que receba dois números inteiros e gere os
+    //  números inteiros que estão no intervalo compreendido por eles.
 
 public class Exerc10 {
     public static void main(String[] args){

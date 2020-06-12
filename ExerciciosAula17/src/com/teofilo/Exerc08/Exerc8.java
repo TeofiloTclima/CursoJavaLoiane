@@ -1,6 +1,8 @@
 package com.teofilo.Exerc08;
 import java.util.Scanner;
 
+    //  Faça um programa que leia 5 números e informe a soma e a média dos numeros
+
 public class Exerc8 {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);

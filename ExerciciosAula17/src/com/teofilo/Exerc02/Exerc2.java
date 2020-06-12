@@ -1,6 +1,11 @@
 package com.teofilo.Exerc02;
 import java.util.Scanner;
 
+    //  Faça um programa que leia um nome de usuário e a sua senha e não
+    //  aceite a senha igual ao nome do usuário, mostrando uma mensagem
+    //  de erro e voltando a pedir as informações.
+
+
 public class Exerc2 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

@@ -1,6 +1,7 @@
 package com.teofilo.Exerc11;
-
 import java.util.Scanner;
+
+    //  Altere o programa anterior para mostrar no final a soma dos números.
 
 public class Exerc11 {
     public static void main(String[] args){

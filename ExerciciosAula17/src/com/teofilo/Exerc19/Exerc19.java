@@ -1,6 +1,9 @@
 package com.teofilo.Exerc19;
 import java.util.Scanner;
 
+    // Faça um programa que calcule o mostre a média aritmética de N notas.
+
+
 public class Exerc19 {
       public static void main(String[] args){
           Scanner scan = new Scanner(System.in);
