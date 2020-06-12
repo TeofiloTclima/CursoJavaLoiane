@@ -23,7 +23,7 @@ public class Exerc21 {
                 System.out.println("Entre com o numero de alunos da turma " + i);
                 nAlunos = scan.nextInt();
 
-                if (nAlunos >= 40) {
+                if (nAlunos <= 40) {
                     invalido = false;
                 }else{
                     System.out.println("Númeor de alunos inválidos. Digite novamente");
