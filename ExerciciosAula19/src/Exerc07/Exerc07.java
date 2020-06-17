@@ -1,8 +1,8 @@
-package Exerc7;
+package Exerc07;
 
 import java.util.Scanner;
 
-public class Exerc7 {
+public class Exerc07 {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
 
@@ -40,4 +40,4 @@ public class Exerc7 {
 
 
 }
-}
+
