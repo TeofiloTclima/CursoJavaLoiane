@@ -10,9 +10,9 @@ public class Exerc09 {
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
 
-        int vetorA[] = new int[10];
-        int vetorB[] = new int[vetorA.length];
-        int vetorC[] = new int[vetorA.length];
+        int[] vetorA = new int[10];
+        int[] vetorB = new int[vetorA.length];
+        double[] vetorC = new double[vetorA.length];
 
         for (int i=0; i<vetorA.length; i++){
             System.out.println("Entre com o valor do vetorA da posição: " + i);
